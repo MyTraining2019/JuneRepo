@@ -13,5 +13,7 @@ public class BootClass {
 	
 	public static void greeting(){
 		System.out.println("Hello! Every One!");
+		System.out.println("Hello! Good Evening!");
+		System.out.println("Welcome All");
 	}
 }
