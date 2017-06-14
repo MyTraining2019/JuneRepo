@@ -16,5 +16,7 @@ public class BootClass {
 		System.out.println("Hello! Good Evening!");
 		System.out.println("Welcome All");
 		System.out.println("Greetings To All!");
+		System.out.println("Greetings ...!");
+		System.out.println("Greetings---");
 	}
 }
